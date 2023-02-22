@@ -10,9 +10,13 @@ body{
 	font-family: 'Arvo', serif;
 }
 /*Navbar Section Start*/
-nav .nav-item{
-	float: right;
+
+#navbar{
+	position: sticky;
+	top: 0;
+
 }
+
 /*Navbar Section End*/
 
 /*Landing Section Start*/
@@ -30,14 +34,27 @@ div .carousel-inner > div > img{
   	height: 500px;
 }
 
-div .help-section > img{
+/*div .help-section > img{*/
 	
-	max-width: 100px;
-	height: 100px;
-}
+	/*max-width: 100px;*/
+	/*height: 100px;*/
 
-div .help-section{
-	float: center;
-}
+
+/*div .help-section{*/
+	/*float: center;*/
+/*}*/
 
 /*Landing Section End
+
+/*About Us Section Start*/
+
+
+}
+/*About Us Section End*/
+
+
+/*Gallery Section Start*/
+
+
+
+/*Gallery Section End*/
